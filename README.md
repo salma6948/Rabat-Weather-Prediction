@@ -42,3 +42,5 @@ The goal of this project is to **forecast temperature values at each hour** for 
 - `Rabat weather.csv` — Data used for the prediction
 - `requirements.txt` — List of Python packages and versions needed to run the project
 
+You can also **run and explore the code on Google Colab** here:  
+[Open in Google Colab](https://colab.research.google.com/drive/1zsCP5V6dZ3QskD5vBarNA1sYTRVN6ujK)
